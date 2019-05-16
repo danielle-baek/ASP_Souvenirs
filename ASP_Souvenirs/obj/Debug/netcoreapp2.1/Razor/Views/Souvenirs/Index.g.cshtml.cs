@@ -66,7 +66,7 @@ using ASP_Souvenirs.Models;
             WriteLiteral("\n<h2>Index</h2>\n\n<p>\n    ");
             EndContext();
             BeginContext(114, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5858c7a728ac444db2c5eda13f43fcaf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cc8d97027bb34f018676aa9f20ae3ec2", async() => {
                 BeginContext(137, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -219,7 +219,7 @@ WriteAttributeValue("", 1332, Url.Content("~/images/items/" + @item.PathOfFile),
             WriteLiteral("\n            </td>\n            <td>\n                ");
             EndContext();
             BeginContext(1653, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0782318aed044a97b4be3f112d848aec", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3b430c872634326b170662e73ebb01c", async() => {
                 BeginContext(1706, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -254,7 +254,7 @@ WriteAttributeValue("", 1332, Url.Content("~/images/items/" + @item.PathOfFile),
             WriteLiteral(" |\n                ");
             EndContext();
             BeginContext(1733, 67, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "82d8052f3b3644a0856dee8cedcaef69", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f2c40871e0bb47d6ad653db696012df3", async() => {
                 BeginContext(1789, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -289,7 +289,7 @@ WriteAttributeValue("", 1332, Url.Content("~/images/items/" + @item.PathOfFile),
             WriteLiteral(" |\n                ");
             EndContext();
             BeginContext(1819, 65, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b6c64c2de72466487b14bd770828041", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "796004be495740b2bc128fc03dee37be", async() => {
                 BeginContext(1874, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
