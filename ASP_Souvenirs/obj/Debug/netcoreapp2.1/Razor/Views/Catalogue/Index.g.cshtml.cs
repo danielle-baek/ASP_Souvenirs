@@ -77,7 +77,7 @@ using ASP_Souvenirs.Models;
             WriteLiteral("\n<h2>Souvenirs</h2>\n<div class=\"col-md-offset-3 col-md-9\" style=\"text-align:right\">\n    ");
             EndContext();
             BeginContext(2120, 464, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8896e2a1e5814e298e4bb84e9bb68b6f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8a4b83c519da4a40ac764263b323a7c3", async() => {
                 BeginContext(2158, 163, true);
                 WriteLiteral("\n        <div class=\"form-actions no-color\">\n            <p>\n                <input type=\"text\" style=\"width:200px;\" name=\"SearchString\" placeholder=\"Find by name\"");
                 EndContext();
@@ -92,7 +92,7 @@ WriteAttributeValue("", 2329, ViewData["currentFilter"], 2329, 26, false);
                 WriteLiteral(" />\n                <input type=\"submit\" value=\"Search\" class=\"btn btn-default\" /> |\n                ");
                 EndContext();
                 BeginContext(2457, 83, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b098a56ee6b42e3966abb8598a8e925", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "05beea1fded14f8e81d978a026922519", async() => {
                     BeginContext(2519, 17, true);
                     WriteLiteral("Back to Full List");
                     EndContext();
@@ -142,7 +142,7 @@ WriteAttributeValue("", 2329, ViewData["currentFilter"], 2329, 26, false);
             WriteLiteral("\n</div>\n<div class=\"col-md-3\">\n    <div class=\"list-group\" id=\"categories\">\n        ");
             EndContext();
             BeginContext(2668, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a51abf9980734479b66331c4754b5f03", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "04f77f38ff594b2a905a823fbea94572", async() => {
                 BeginContext(2730, 14, true);
                 WriteLiteral("All Categories");
                 EndContext();
@@ -190,7 +190,7 @@ WriteAttributeValue("", 2329, ViewData["currentFilter"], 2329, 26, false);
                     ");
             EndContext();
             BeginContext(3509, 269, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bdbc0c8a56234e1d9ea505b0973da43b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c868cc598b07456b8782ad95b187c0d1", async() => {
                 BeginContext(3583, 96, true);
                 WriteLiteral("\n                        <img class=\"img-responsive\" style=\"max-width: 154px; max-height:180px;\"");
                 EndContext();
@@ -236,7 +236,7 @@ WriteAttributeValue("", 3685, Url.Content("~/images/items/" + @item.PathOfFile),
             WriteLiteral("\n                </div>\n            </div>\n            <div class=\"mid-1\">\n                <div>\n                    <h5>");
             EndContext();
             BeginContext(3899, 100, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "42041051f9664f9d91d45ad2f91ff9b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "042a8a2f8e834728ba3e79857d3c43db", async() => {
                 BeginContext(3956, 39, false);
 #line 109 "C:\Users\Dasol\.babun\cygwin\home\Dasol\WADassignment\new\ASP_Souvenirs\ASP_Souvenirs\Views\Catalogue\Index.cshtml"
                                                                            Write(Html.DisplayFor(modelItem => item.Name));
@@ -295,7 +295,7 @@ WriteAttributeValue("", 3685, Url.Content("~/images/items/" + @item.PathOfFile),
             WriteLiteral("</h4>\n                </div>\n                <div>\n                    ");
             EndContext();
             BeginContext(4230, 134, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "555edb375d68495db173495ca26a22ea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7e8430b7224d49a08acde1beae098265", async() => {
                 BeginContext(4349, 11, true);
                 WriteLiteral("Add to Cart");
                 EndContext();
